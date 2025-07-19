@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Code Converter C#", "codechanger\Code Converter C#.csproj", "{DDE78401-EC4B-4F9C-9B7D-9778BBD5E3EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDE78401-EC4B-4F9C-9B7D-9778BBD5E3EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDE78401-EC4B-4F9C-9B7D-9778BBD5E3EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDE78401-EC4B-4F9C-9B7D-9778BBD5E3EF}.Debug|x64.ActiveCfg = Debug|x64
+		{DDE78401-EC4B-4F9C-9B7D-9778BBD5E3EF}.Debug|x64.Build.0 = Debug|x64
+		{DDE78401-EC4B-4F9C-9B7D-9778BBD5E3EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDE78401-EC4B-4F9C-9B7D-9778BBD5E3EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDE78401-EC4B-4F9C-9B7D-9778BBD5E3EF}.Release|x64.ActiveCfg = Release|x64
+		{DDE78401-EC4B-4F9C-9B7D-9778BBD5E3EF}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A51AD3FD-607D-4222-BA03-7310085303C7}
+	EndGlobalSection
+EndGlobal
